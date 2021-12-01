@@ -1,0 +1,22 @@
+	
+
+26/10-
+CPET-1973- Started development on TF enterprise module for API Gateway
+CID-2604 - started analysis and made gsl changes
+CPET-1908 elastic-search tf module upgrade completed
+sprint planning tickets to analyse
+CID-2411
+	CID-2129
+	CID-2592 (Automation to get the open PRs list)
+
+27/10 -
+To Do
+CID-2521 Check with Chanakya on Clfy-latest failures	
+CID-2604  code working as expected but not updating the bitbucket
+
+
+
+09/11 -
+To DO
+Review gsl-terraform and merge PR.
+Complete module development for api-gateway
